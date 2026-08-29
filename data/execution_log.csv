@@ -1,0 +1,5 @@
+datum_signal,signal,soll_aktion,instrument,datum_ausfuehrung,kurs_ausfuehrung,paper_referenzkurs,abweichung_grund
+2026-08-17,S1_GEO,Track-Start im Zustand TEILBREMSE (Soll 50/25/25; Volumen ~20.086 EUR),—,2026-08-18,—,—,Track-Start nach Episodenbeginn; Einstieg in 2 Tranchen (aggregiert geloggt)
+2026-08-17,S1_GEO,Kauf 50% Vehikel,CSPX / IE00B5BMR087 (14 Stk in 2 Tranchen),2026-08-18,717.03,,
+2026-08-17,S1_GEO,Kauf 25% Geldmarkt,IB01 / IE00BGSF1X88 (48 Stk in 2 Tranchen),2026-08-18,105.07,,
+2026-08-17,S1_GEO,Kauf 25% Gold,EWG2 / DE000EWG2LD7 (40 Stk in 2 Tranchen),2026-08-18,125.105,,

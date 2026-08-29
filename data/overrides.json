@@ -1,0 +1,36 @@
+{
+ "impact": {},
+ "direction": {
+  "2252244": "RISK_ON",
+  "2252245": "RISK_OFF"
+ },
+ "mute": [],
+ "zone": {
+  "2252244": 1,
+  "2252245": 1,
+  "691340": 1
+ },
+ "log": [
+  {
+   "datum": "2026-08-18",
+   "market_id": "2252244",
+   "aktion": "Zone 2->1, RISK_ON",
+   "grund": "MAKRO-Seismograph (2022-Lehre)"
+  },
+  {
+   "datum": "2026-08-18",
+   "market_id": "2252245",
+   "aktion": "Zone 2->1, RISK_OFF",
+   "grund": "MAKRO-Seismograph (2022-Lehre)"
+  },
+  {
+   "datum": "2026-08-20",
+   "market_id": "691340",
+   "aktion": "Cluster->SYS, Zone 2->1",
+   "grund": "KI-Konzentrationsrisiko = systemisch (Marktbreite S&P); Seismographen-Test bestanden; Amendment 2"
+  }
+ ],
+ "cluster": {
+  "691340": "Systemische Stabilit\u00e4tsrisiken"
+ }
+}

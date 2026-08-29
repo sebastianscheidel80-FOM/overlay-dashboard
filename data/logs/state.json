@@ -1,0 +1,60 @@
+{
+ "start": "2026-08-17",
+ "cluster": {
+  "GEO": {
+   "zustand": "TEILBREMSE",
+   "halt": 9,
+   "ruhig": 0,
+   "episode": {
+    "lang": "1633611",
+    "kurz": "2774057",
+    "g_hoch": 95.5,
+    "war_drunter": false
+   }
+  },
+  "MAKRO": {
+   "zustand": "TEILBREMSE",
+   "halt": 0,
+   "ruhig": 0,
+   "episode": {
+    "lang": null,
+    "kurz": "2252244",
+    "g_hoch": 51.5,
+    "war_drunter": false
+   }
+  },
+  "SYS": {
+   "zustand": "VOLLGAS",
+   "halt": 109,
+   "ruhig": 10,
+   "episode": null
+  }
+ },
+ "wirksam": {
+  "SPY": 0.5,
+  "BIL": 0.25,
+  "GLD": 0.25
+ },
+ "pending": {
+  "SPY": 0.5,
+  "BIL": 0.5
+ },
+ "vix_bremse": false,
+ "semi_an": false,
+ "equity": {
+  "spy": 0.9909961472708754,
+  "overlay": 0.9966696879529726,
+  "vix": 0.9909961472708754,
+  "semi": 0.9909961472708754,
+  "open": 0.9949652195154473
+ },
+ "open_wirksam": {
+  "SPY": 0.5,
+  "BIL": 0.25,
+  "GLD": 0.25
+ },
+ "open_pending": {
+  "SPY": 0.5,
+  "BIL": 0.5
+ }
+}

@@ -1,0 +1,37 @@
+date,cluster,zustand,ausloeser,mom_max,g_lang,g_kurz,langlaeufer,kurzlaeufer,deckel,ref_span_tage
+2026-08-17,GEO,TEILBREMSE,S1: Momentum +22Pp/5T,22.0,12.5,89.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-17,MAKRO,VOLLGAS,,0.0,,,,FEHLT,,5
+2026-08-17,SYS,VOLLGAS,,0.1,,,,FEHLT,,5
+2026-08-18,GEO,TEILBREMSE,,19.0,12.5,91.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-18,MAKRO,VOLLGAS,,-0.0,,29.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-18,SYS,VOLLGAS,,1.2,,,,FEHLT,,5
+2026-08-19,GEO,TEILBREMSE,,14.0,12.5,94.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-19,MAKRO,VOLLGAS,,4.0,,29.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-19,SYS,VOLLGAS,,2.1,,,,FEHLT,,5
+2026-08-20,GEO,TEILBREMSE,,16.0,13.5,94.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-20,MAKRO,VOLLGAS,,3.0,,29.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-20,SYS,VOLLGAS,,0.3,,,,FEHLT,,5
+2026-08-21,GEO,TEILBREMSE,,13.0,12.5,94.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-21,MAKRO,VOLLGAS,,7.0,,32.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-21,SYS,VOLLGAS,,1.0,,,,FEHLT,,5
+2026-08-22,GEO,TEILBREMSE,,9.0,11.5,94.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-22,MAKRO,VOLLGAS,,2.0,,31.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-22,SYS,VOLLGAS,,0.6,,,,FEHLT,,5
+2026-08-23,GEO,TEILBREMSE,,5.8,11.5,94.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-23,MAKRO,VOLLGAS,,3.0,,32.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-23,SYS,VOLLGAS,,0.0,,,,FEHLT,,5
+2026-08-24,GEO,TEILBREMSE,,4.2,11.5,94.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-24,MAKRO,VOLLGAS,,6.0,,34.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-24,SYS,VOLLGAS,,0.9,,,,FEHLT,,5
+2026-08-25,GEO,TEILBREMSE,,0.0,11.5,90.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-25,MAKRO,VOLLGAS,,5.0,,34.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-25,SYS,VOLLGAS,,2.0,,,,FEHLT,,5
+2026-08-26,GEO,TEILBREMSE,,0.0,11.5,91.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-26,MAKRO,VOLLGAS,,1.0,,33.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-26,SYS,VOLLGAS,,1.9,,,,FEHLT,,5
+2026-08-27,GEO,TEILBREMSE,,1.3,11.5,94.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-27,MAKRO,VOLLGAS,,-0.0,,31.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-27,SYS,VOLLGAS,,1.6,,,,FEHLT,,5
+2026-08-28,GEO,TEILBREMSE,,8.5,11.5,95.5,"Will China invade Taiwan by December 31, 2027?",Strait of Hormuz traffic returns to normal by September 30?,,5
+2026-08-28,MAKRO,TEILBREMSE,S1: Momentum +20Pp/5T,20.0,,51.5,,Will there be no change in Fed interest rates after the Sept,,5
+2026-08-28,SYS,VOLLGAS,,0.9,,,,FEHLT,,5
